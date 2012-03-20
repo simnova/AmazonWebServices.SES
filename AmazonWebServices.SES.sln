@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebServices.SES", "AmazonWebServices.SES\AmazonWebServices.SES.csproj", "{9FB6EABC-1ECC-402A-9D40-BA58852D3DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebServices.SES.Tests", "AmazonWebServices.SES.Tests\AmazonWebServices.SES.Tests.csproj", "{2C839DD0-EADE-4751-8957-FD7A96A78343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB6EABC-1ECC-402A-9D40-BA58852D3DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB6EABC-1ECC-402A-9D40-BA58852D3DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB6EABC-1ECC-402A-9D40-BA58852D3DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB6EABC-1ECC-402A-9D40-BA58852D3DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C839DD0-EADE-4751-8957-FD7A96A78343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C839DD0-EADE-4751-8957-FD7A96A78343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C839DD0-EADE-4751-8957-FD7A96A78343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C839DD0-EADE-4751-8957-FD7A96A78343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
